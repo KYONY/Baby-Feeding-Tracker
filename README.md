@@ -1,4 +1,4 @@
-# Myroslav - Baby Feeding Tracker PWA
+# Baby Feeding Tracker PWA
 
 ## About The Project
 
